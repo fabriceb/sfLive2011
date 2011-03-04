@@ -1,0 +1,8 @@
+/build/
+/vendor_full/
+/app/cache/*
+/app/logs/*
+symfttpd
+undercontrol.xml
+clover.xml
+*.pyc
